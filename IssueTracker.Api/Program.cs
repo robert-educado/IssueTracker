@@ -6,6 +6,8 @@ var app = builder.Build();
 
 // Configure the HTTP request pipeline.
 
+// Lorem ipsum dolor
+
 app.UseHttpsRedirection();
 
 app.Run();
